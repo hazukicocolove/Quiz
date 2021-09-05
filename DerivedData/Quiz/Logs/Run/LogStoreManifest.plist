@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>438EF3E9-FA47-4ACA-82AB-F8976797FF9A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>438EF3E9-FA47-4ACA-82AB-F8976797FF9A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quiz project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quiz</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Quiz</string>
+			<key>timeStartedRecording</key>
+			<real>652573326.22087395</real>
+			<key>timeStoppedRecording</key>
+			<real>652573350.45852697</real>
+			<key>title</key>
+			<string>Run Quiz</string>
+			<key>uniqueIdentifier</key>
+			<string>438EF3E9-FA47-4ACA-82AB-F8976797FF9A</string>
+		</dict>
+		<key>4926B2AE-5D2B-4093-8257-3D37FADF0626</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4926B2AE-5D2B-4093-8257-3D37FADF0626.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quiz project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quiz</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Quiz</string>
+			<key>timeStartedRecording</key>
+			<real>652574912.63276803</real>
+			<key>timeStoppedRecording</key>
+			<real>652574967.34563899</real>
+			<key>title</key>
+			<string>Run Quiz</string>
+			<key>uniqueIdentifier</key>
+			<string>4926B2AE-5D2B-4093-8257-3D37FADF0626</string>
+		</dict>
+		<key>5578D064-C367-4A72-A215-5CD4E7C8C3B8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5578D064-C367-4A72-A215-5CD4E7C8C3B8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quiz project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quiz</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Quiz</string>
+			<key>timeStartedRecording</key>
+			<real>652574741.58527303</real>
+			<key>timeStoppedRecording</key>
+			<real>652574909.13354301</real>
+			<key>title</key>
+			<string>Run Quiz</string>
+			<key>uniqueIdentifier</key>
+			<string>5578D064-C367-4A72-A215-5CD4E7C8C3B8</string>
+		</dict>
+		<key>689C7C50-F301-4C0E-9447-ABE770CE8C66</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>689C7C50-F301-4C0E-9447-ABE770CE8C66.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quiz project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quiz</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Quiz</string>
+			<key>timeStartedRecording</key>
+			<real>652575387.518682</real>
+			<key>timeStoppedRecording</key>
+			<real>652575496.73601699</real>
+			<key>title</key>
+			<string>Run Quiz</string>
+			<key>uniqueIdentifier</key>
+			<string>689C7C50-F301-4C0E-9447-ABE770CE8C66</string>
+		</dict>
+		<key>72C9D357-A663-4208-8AA4-3F9A582708FB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>72C9D357-A663-4208-8AA4-3F9A582708FB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quiz project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quiz</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Quiz</string>
+			<key>timeStartedRecording</key>
+			<real>652573849.09874105</real>
+			<key>timeStoppedRecording</key>
+			<real>652573861.33645105</real>
+			<key>title</key>
+			<string>Run Quiz</string>
+			<key>uniqueIdentifier</key>
+			<string>72C9D357-A663-4208-8AA4-3F9A582708FB</string>
+		</dict>
+		<key>732AD025-0227-4D6B-849C-1D508F75E138</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>732AD025-0227-4D6B-849C-1D508F75E138.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quiz project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quiz</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Quiz</string>
+			<key>timeStartedRecording</key>
+			<real>652574967.72496498</real>
+			<key>timeStoppedRecording</key>
+			<real>652575127.65263295</real>
+			<key>title</key>
+			<string>Run Quiz</string>
+			<key>uniqueIdentifier</key>
+			<string>732AD025-0227-4D6B-849C-1D508F75E138</string>
+		</dict>
+		<key>8C2ACDC3-E066-4337-9AA5-2118B715BAAB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8C2ACDC3-E066-4337-9AA5-2118B715BAAB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quiz project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quiz</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Quiz</string>
+			<key>timeStartedRecording</key>
+			<real>652574378.42847502</real>
+			<key>timeStoppedRecording</key>
+			<real>652574738.28563905</real>
+			<key>title</key>
+			<string>Run Quiz</string>
+			<key>uniqueIdentifier</key>
+			<string>8C2ACDC3-E066-4337-9AA5-2118B715BAAB</string>
+		</dict>
+		<key>9EC4229F-B456-4446-93F7-C83308DF223B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9EC4229F-B456-4446-93F7-C83308DF223B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quiz project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quiz</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Quiz</string>
+			<key>timeStartedRecording</key>
+			<real>652573861.74624705</real>
+			<key>timeStoppedRecording</key>
+			<real>652574138.69857705</real>
+			<key>title</key>
+			<string>Run Quiz</string>
+			<key>uniqueIdentifier</key>
+			<string>9EC4229F-B456-4446-93F7-C83308DF223B</string>
+		</dict>
+		<key>A539EC76-014C-4656-B7D0-14E17A3E57EF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A539EC76-014C-4656-B7D0-14E17A3E57EF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quiz project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quiz</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Quiz</string>
+			<key>timeStartedRecording</key>
+			<real>652574141.58516598</real>
+			<key>timeStoppedRecording</key>
+			<real>652574374.735708</real>
+			<key>title</key>
+			<string>Run Quiz</string>
+			<key>uniqueIdentifier</key>
+			<string>A539EC76-014C-4656-B7D0-14E17A3E57EF</string>
+		</dict>
+		<key>B97C56FE-6B27-40A1-B747-31FF481F0BFF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B97C56FE-6B27-40A1-B747-31FF481F0BFF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quiz project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quiz</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Quiz</string>
+			<key>timeStartedRecording</key>
+			<real>652573350.825688</real>
+			<key>timeStoppedRecording</key>
+			<real>652573845.25409496</real>
+			<key>title</key>
+			<string>Run Quiz</string>
+			<key>uniqueIdentifier</key>
+			<string>B97C56FE-6B27-40A1-B747-31FF481F0BFF</string>
+		</dict>
+		<key>C0B4ECE4-6ADB-45D6-9DD3-D47A044E8A58</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C0B4ECE4-6ADB-45D6-9DD3-D47A044E8A58.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quiz project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quiz</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Quiz</string>
+			<key>timeStartedRecording</key>
+			<real>652575130.87155402</real>
+			<key>timeStoppedRecording</key>
+			<real>652575387.58867097</real>
+			<key>title</key>
+			<string>Run Quiz</string>
+			<key>uniqueIdentifier</key>
+			<string>C0B4ECE4-6ADB-45D6-9DD3-D47A044E8A58</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "803530124167e11e6597db6a2eedd8c4"
+build_time: [1630882583, 743325000]
+inputs:
+  "/Users/hazuki/Desktop/13/la/lifeistech/Quiz/Quiz/ResultViewController.swift": [1630881045, 115126636]
+  "/Users/hazuki/Desktop/13/la/lifeistech/Quiz/Quiz/ViewController.swift": [1630876786, 836397682]
+  "/Users/hazuki/Desktop/13/la/lifeistech/Quiz/Quiz/AppDelegate.swift": [1630876786, 825271010]
+  "/Users/hazuki/Desktop/13/la/lifeistech/Quiz/Quiz/SceneDelegate.swift": [1630876786, 834600297]
+  "/Users/hazuki/Desktop/13/la/lifeistech/Quiz/Quiz/QuizViewController.swift": [1630882583, 591759300]
